@@ -1,68 +1,51 @@
-# 🌌 Panta Rhei
+# Panta Rhei Research Program
 
-**Panta Rhei is a foundational framework built on the τ-kernel.**
+**An independent open research program exploring whether one constrained formal kernel can support a unified model of mathematics, physics, life, and metaphysics.**
 
-This organization hosts the public Atlas, the canonical books lane, the topic and results projections, the formalization surface, the open papers layer, and the contributor-facing research and code workspaces around the framework.
+Seven books. One master constant. Zero free parameters. Every claim typed. Every derivation machine-checked. Every prediction publicly inspectable.
 
-## 🔭 Start here
+## Start here
 
-- 🌐 **Website:** [https://panta-rhei.site](https://panta-rhei.site)
-- 📬 **Contact:** [contact@panta-rhei.site](mailto:contact@panta-rhei.site)
-- 💬 **Discussions:** [Organization discussions](https://github.com/orgs/Panta-Rhei-Framework/discussions)
+- **Website:** [panta-rhei.site](https://panta-rhei.site)
+- **Contact:** [contact@panta-rhei.site](mailto:contact@panta-rhei.site)
+- **Discussions:** [Organization discussions](https://github.com/orgs/Panta-Rhei-Research/discussions)
 
-## 🧭 Choose your path
+## Repositories
 
-| Path | What it is | Start here |
-| --- | --- | --- |
-| 📚 **Books** | The canonical narrative build of the framework | [`books`](https://github.com/Panta-Rhei-Framework/books) |
-| 🧭 **Topics** | The orthodox/domain projection of the framework | [`topics`](https://github.com/Panta-Rhei-Framework/topics) |
-| ✨ **Results** | The results atlas of key claims, problems, and resolutions | [`results`](https://github.com/Panta-Rhei-Framework/results) |
-| 📄 **Papers** | The open paper and PDF surface | [`papers`](https://github.com/Panta-Rhei-Framework/papers) |
-| 🧮 **Formalization** | The official release-facing formalization layer | [`formalization`](https://github.com/Panta-Rhei-Framework/formalization) |
-| 🚀 **Project** | Public project context, updates, and broader framing | [`project`](https://github.com/Panta-Rhei-Framework/project) |
+| Repository | Role | Link |
+|---|---|---|
+| **site** | Canonical public website / Atlas | [`site`](https://github.com/Panta-Rhei-Research/site) |
+| **taulib** | Live Lean 4 kernel — 450 modules, 125K lines, 4,332 theorems | [`taulib`](https://github.com/Panta-Rhei-Research/taulib) |
+| **books** | Canonical publication + archival home | [`books`](https://github.com/Panta-Rhei-Research/books) |
+| **research** | Active contributor-facing research workspace | [`research`](https://github.com/Panta-Rhei-Research/research) |
+| **papers** | Paper-oriented research outputs | [`papers`](https://github.com/Panta-Rhei-Research/papers) |
+| **community** | Onboarding, contribution guidance, discussions | [`community`](https://github.com/Panta-Rhei-Research/community) |
 
-## 📦 Artifact families
+## The research program
 
-- **Panta Rhei Books** — the canonical narrative build
-- **Papers** — open research artifacts around the framework
-- **Formalization / TauLib** — formal implementation surfaces
-- **Atlas pages** — navigational and interpretive public surfaces
-- **Project materials** — context, updates, and public-facing endeavor notes
+The program develops **Category τ** — a categorical framework built from five generators, seven axioms, and one operator. From this kernel, it derives:
 
-## 🤝 Contribute
+- **Mathematics** (Books I–III): foundations, holomorphy, the Millennium Problems
+- **Physics** (Books IV–V): quantum mechanics, particle physics, gravity, cosmology — zero free parameters
+- **Life** (Book VI): life as self-decoding distinctions, the genetic code, evolution
+- **Metaphysics** (Book VII): ontology, ethics, consciousness, the Logos sector
 
-If you want to contribute, start in the active workspaces:
+The master constant **ι_τ = 2/(π + e)** governs all quantitative predictions. The decisive near-term test: **CMB-S4** will measure the tensor-to-scalar ratio *r*. If *r* is inconsistent with ι_τ⁴, the framework's cosmological predictions fail.
 
-- 🧮 **TauLib:** https://github.com/Panta-Rhei-Framework/taulib
-- 🧪 **Research:** https://github.com/Panta-Rhei-Framework/research
-- 💬 **Community:** https://github.com/Panta-Rhei-Framework/community
+## Verification
 
-## 🕰️ Historical and project context
+The program is built for inspection:
 
-The live framework surface is forward-facing, but the project also has a history.
+- **TauLib** — 450 Lean 4 modules, 0 sorry in Books I–VI, 3 intentional methodological sorry in Book VII
+- **Registry** — 4,547 objects with typed dependency graphs
+- **220+ quantitative predictions** — each with explicit precision and falsification routes
 
-- 🚀 **Project repo:** https://github.com/Panta-Rhei-Framework/project
-- 🕰️ **First-edition archive** will be surfaced through the Atlas as the historical background to the current framework
+## Contribute
 
-## 📌 Organization structure
-
-### Official read-first surfaces
-- `site`
-- `books`
-- `topics`
-- `results`
-- `papers`
-- `formalization`
-- `project`
-
-### Contributor-active workspaces
-- `taulib`
-- `research`
-- `community`
+- **Formalization:** [taulib](https://github.com/Panta-Rhei-Research/taulib) — explore, verify, contribute
+- **Research:** [research](https://github.com/Panta-Rhei-Research/research) — notebooks, scripts, explorations
+- **Community:** [community](https://github.com/Panta-Rhei-Research/community) — onboarding, discussions, governance
 
 ---
 
-**The books are the canonical narrative build.  
-The website is the public atlas.  
-TauLib is the formal implementation layer.  
-The papers are the open research artifact layer.**
+*Panta Rhei — Everything Flows.*
