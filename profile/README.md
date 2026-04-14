@@ -12,14 +12,13 @@ Seven books. One master constant. Zero free parameters. Every claim typed. Every
 
 ## Repositories
 
-| Repository | Role | Link |
-|---|---|---|
-| **site** | Canonical public website / Atlas | [`site`](https://github.com/Panta-Rhei-Research/site) |
-| **taulib** | Live Lean 4 kernel — 450 modules, 125K lines, 4,332 theorems | [`taulib`](https://github.com/Panta-Rhei-Research/taulib) |
-| **books** | Canonical publication + archival home | [`books`](https://github.com/Panta-Rhei-Research/books) |
-| **research** | Active contributor-facing research workspace | [`research`](https://github.com/Panta-Rhei-Research/research) |
-| **papers** | Paper-oriented research outputs | [`papers`](https://github.com/Panta-Rhei-Research/papers) |
-| **community** | Onboarding, contribution guidance, discussions | [`community`](https://github.com/Panta-Rhei-Research/community) |
+| Repository | Role |
+|---|---|
+| [**site**](https://github.com/Panta-Rhei-Research/site) | Canonical public website / Atlas at [panta-rhei.site](https://panta-rhei.site) |
+| [**taulib**](https://github.com/Panta-Rhei-Research/taulib) | Live Lean 4 formalization — 450 modules, 125K lines, 4,332 theorems |
+| [**books**](https://github.com/Panta-Rhei-Research/books) | Canonical publication + archival home — editions, guided tours, frozen snapshots |
+| [**research**](https://github.com/Panta-Rhei-Research/research) | Active contributor workspace — notebooks, scripts, explorations |
+| [**community**](https://github.com/Panta-Rhei-Research/community) | Community hub — onboarding, contribution guidance, discussions |
 
 ## The research program
 
@@ -33,8 +32,6 @@ The program develops **Category τ** — a categorical framework built from five
 The master constant **ι_τ = 2/(π + e)** governs all quantitative predictions. The decisive near-term test: **CMB-S4** will measure the tensor-to-scalar ratio *r*. If *r* is inconsistent with ι_τ⁴, the framework's cosmological predictions fail.
 
 ## Verification
-
-The program is built for inspection:
 
 - **TauLib** — 450 Lean 4 modules, 0 sorry in Books I–VI, 3 intentional methodological sorry in Book VII
 - **Registry** — 4,547 objects with typed dependency graphs
