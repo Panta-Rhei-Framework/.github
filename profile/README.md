@@ -14,11 +14,12 @@ Seven books. One master constant. Zero free parameters. Every claim typed. Every
 
 | Repository | Role |
 |---|---|
-| [**site**](https://github.com/Panta-Rhei-Research/site) | Canonical public website / Atlas at [panta-rhei.site](https://panta-rhei.site) |
-| [**taulib**](https://github.com/Panta-Rhei-Research/taulib) | Live Lean 4 formalization — 450 modules, 125K lines, 4,332 theorems |
-| [**books**](https://github.com/Panta-Rhei-Research/books) | Canonical publication + archival home — editions, guided tours, frozen snapshots |
-| [**research**](https://github.com/Panta-Rhei-Research/research) | Active contributor workspace — notebooks, scripts, explorations |
-| [**community**](https://github.com/Panta-Rhei-Research/community) | Community hub — onboarding, contribution guidance, discussions |
+| [**site**](https://github.com/Panta-Rhei-Research/site) | Public website and program hub at [panta-rhei.site](https://panta-rhei.site) |
+| [**publications**](https://github.com/Panta-Rhei-Research/publications) | Open-access publication artefacts and source files |
+| [**taulib**](https://github.com/Panta-Rhei-Research/taulib) | Live Lean 4 formalization and generated documentation |
+| [**research**](https://github.com/Panta-Rhei-Research/research) | Public workspace for open notebooks, scripts, and exploratory supplements |
+| [**community**](https://github.com/Panta-Rhei-Research/community) | Public discussion, onboarding, and routing surface |
+| [**formalization**](https://github.com/Panta-Rhei-Research/formalization) | Archived historical formalization snapshot |
 
 ## The research program
 
@@ -33,15 +34,16 @@ The master constant **ι_τ = 2/(π + e)** governs all quantitative predictions.
 
 ## Verification
 
-- **TauLib** — 450 Lean 4 modules, 0 sorry in Books I–VI, 3 intentional methodological sorry in Book VII
-- **Registry** — 4,547 objects with typed dependency graphs
-- **220+ quantitative predictions** — each with explicit precision and falsification routes
+- **TauLib** — the live Lean 4 formalization surface
+- **Open-access publications** — companion texts, errata, and public release artefacts
+- **Public verification routes** — website, documentation, and archived snapshots for independent inspection
 
 ## Contribute
 
-- **Formalization:** [taulib](https://github.com/Panta-Rhei-Research/taulib) — explore, verify, contribute
-- **Research:** [research](https://github.com/Panta-Rhei-Research/research) — notebooks, scripts, explorations
-- **Community:** [community](https://github.com/Panta-Rhei-Research/community) — onboarding, discussions, governance
+- **Formalization:** [taulib](https://github.com/Panta-Rhei-Research/taulib)
+- **Publications:** [publications](https://github.com/Panta-Rhei-Research/publications)
+- **Research:** [research](https://github.com/Panta-Rhei-Research/research)
+- **Community:** [community](https://github.com/Panta-Rhei-Research/community)
 
 ---
 

@@ -2,15 +2,16 @@
 
 Organization profile and shared community-health files for the **Panta Rhei Research Program**.
 
-## Organization repos
+## Public repositories
 
 | Repository | Role |
 |---|---|
-| [**site**](https://github.com/Panta-Rhei-Research/site) | Canonical public website / Atlas at [panta-rhei.site](https://panta-rhei.site) |
-| [**taulib**](https://github.com/Panta-Rhei-Research/taulib) | Live Lean 4 formalization — 450 modules, 125K lines, 4,332 theorems |
-| [**books**](https://github.com/Panta-Rhei-Research/books) | Canonical publication + archival home |
-| [**research**](https://github.com/Panta-Rhei-Research/research) | Active contributor workspace |
-| [**community**](https://github.com/Panta-Rhei-Research/community) | Community hub — onboarding, discussions |
+| [**site**](https://github.com/Panta-Rhei-Research/site) | Public website and program hub at [panta-rhei.site](https://panta-rhei.site) |
+| [**publications**](https://github.com/Panta-Rhei-Research/publications) | Open-access publication artefacts and source files |
+| [**taulib**](https://github.com/Panta-Rhei-Research/taulib) | Live Lean 4 formalization and generated documentation |
+| [**research**](https://github.com/Panta-Rhei-Research/research) | Public workspace for open notebooks, scripts, and exploratory supplements |
+| [**community**](https://github.com/Panta-Rhei-Research/community) | Public discussion, onboarding, and routing surface |
+| [**formalization**](https://github.com/Panta-Rhei-Research/formalization) | Archived historical formalization snapshot |
 
 ## This repo contains
 
