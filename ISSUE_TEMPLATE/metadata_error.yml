@@ -1,0 +1,21 @@
+name: Metadata or taxonomy error
+description: Report wrong status, category, source, date, tag, or related link metadata.
+title: "[metadata]: "
+labels: ["metadata", "documentation"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page or artifact
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What metadata is wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested correction
