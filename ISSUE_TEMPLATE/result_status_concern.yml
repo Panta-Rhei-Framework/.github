@@ -1,0 +1,30 @@
+name: Result status concern
+description: Challenge a result status label or claim boundary.
+title: "[result-status]: "
+labels: ["result-status", "needs-review"]
+body:
+  - type: input
+    id: result
+    attributes:
+      label: Result page or ID
+    validations:
+      required: true
+  - type: dropdown
+    id: concern_type
+    attributes:
+      label: Concern type
+      options:
+        - Status too strong
+        - Status too weak
+        - Missing verification route
+        - Missing external-status distinction
+        - Ambiguous claim wording
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: explanation
+    attributes:
+      label: Explanation
+    validations:
+      required: true

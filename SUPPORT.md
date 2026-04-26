@@ -1,29 +1,36 @@
 # Support
 
-## Where to go
+## Public questions
 
-### 🌌 General framework questions
-Use **organization discussions**:
-- https://github.com/orgs/Panta-Rhei-Framework/discussions
+Use GitHub Organization Discussions for public questions, critique, review offers, orientation, and discussion:
 
-### 🧮 Formal code / Lean / TauLib
-Use:
-- `taulib` issues and discussions
-- https://github.com/Panta-Rhei-Framework/taulib
+https://github.com/orgs/Panta-Rhei-Research/discussions
 
-### 🧪 Research materials, notebooks, LaTeX sources
-Use:
-- `research` issues and discussions
-- https://github.com/Panta-Rhei-Framework/research
+## Concrete defects
 
-### 📚 Official read-first surfaces
-For the public official surfaces (`site`, `books`, `topics`, `results`, `papers`, `formalization`, `project`), prefer:
-- community discussions
-- direct contact if needed
+Use Issues in the relevant repository for concrete, actionable defects:
 
-### 📬 Contact
-- contact@panta-rhei.site
+- broken links;
+- wrong metadata or taxonomy;
+- source/import mapping problems;
+- build failures;
+- reproducible formalization issues;
+- incorrect generated pages or raw template rendering.
 
-## Not the right place
+## Concrete improvements
 
-Please do **not** use the official read-first repos as the main place for open-ended contribution flow unless a maintainer has explicitly invited that for a specific reason.
+Use Pull Requests for proposed concrete changes. A useful PR explains what changed, why it changed, and how claim safety or source metadata were preserved.
+
+## Private or institutional contact
+
+Use email for private, institutional, media, sensitive, support, or funding-related contact:
+
+hello@panta-rhei.site
+
+For typed contact routes, see:
+
+https://panta-rhei.site/engage/contact/
+
+## Not the right route
+
+Please do not use Issues for broad conceptual debate. Start broad questions or critique in Organization Discussions, then open an Issue or Pull Request when there is a concrete defect or proposed change.

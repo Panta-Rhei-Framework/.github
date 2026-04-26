@@ -1,50 +1,68 @@
 # Panta Rhei Research Program
 
-**An independent open research program exploring whether one constrained formal kernel can support a unified model of mathematics, physics, life, and metaphysics.**
+Panta Rhei Research is an independent open research program exploring whether one constrained formal kernel can support a coherent model of mathematics, physics, life, and metaphysics.
 
-Seven books. One master constant. Zero free parameters. Every claim typed. Every derivation machine-checked. Every prediction publicly inspectable.
+The public website is the research observatory.
+GitHub is the public engagement, source, formalization, contribution, and correction substrate.
 
 ## Start here
 
-- **Website:** [panta-rhei.site](https://panta-rhei.site)
-- **Contact:** [contact@panta-rhei.site](mailto:contact@panta-rhei.site)
-- **Discussions:** [Organization discussions](https://github.com/orgs/Panta-Rhei-Research/discussions)
+- Website: https://panta-rhei.site
+- Public discussions: https://github.com/orgs/Panta-Rhei-Research/discussions
+- Contact: hello@panta-rhei.site
+
+## Engagement without endorsement
+
+We do not ask first for agreement.
+
+We ask for open-research engagement: careful reading, public questions, critique, reproducibility checks, domain review, correction, infrastructure contribution, and responsible communication.
+
+Participation does not imply endorsement of the framework.
+
+A reader may ask a question without accepting the theory.
+A reviewer may challenge a result without joining the program.
+A contributor may improve documentation, metadata, or tooling without endorsing any conclusion.
+
+## Research spine
+
+The public research system is organized around:
+
+- **Research Agenda**: the obligations the program accepts: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.
+- **Corpus**: the construction body: Construction Spine, Registry, TauLib projection, books, and dependency graph.
+- **Results**: current program stances: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.
+- **Verify**: inspection routes: formalization, construction-step verification, predictions, falsification, release manifest, and assessment protocols.
+- **Publications**: stable artifacts: Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, and Release Artifacts.
 
 ## Repositories
 
 | Repository | Role |
 |---|---|
-| [**site**](https://github.com/Panta-Rhei-Research/site) | Public website and program hub at [panta-rhei.site](https://panta-rhei.site) |
-| [**publications**](https://github.com/Panta-Rhei-Research/publications) | Open-access publication artefacts and source files |
-| [**taulib**](https://github.com/Panta-Rhei-Research/taulib) | Live Lean 4 formalization and generated documentation |
-| [**research**](https://github.com/Panta-Rhei-Research/research) | Public workspace for open notebooks, scripts, and exploratory supplements |
-| [**community**](https://github.com/Panta-Rhei-Research/community) | Public discussion, onboarding, and routing surface |
-| [**formalization**](https://github.com/Panta-Rhei-Research/formalization) | Archived historical formalization snapshot |
+| [`site`](https://github.com/Panta-Rhei-Research/site) | Jekyll source for the public website and research observatory. |
+| [`publications`](https://github.com/Panta-Rhei-Research/publications) | Source and release artifacts for monographs, supplements, notes, briefings, white papers, and release artifacts. |
+| [`taulib`](https://github.com/Panta-Rhei-Research/taulib) | Lean 4 formalization surface. See the website Release Manifest for current formalization metrics and trusted-base details. |
+| [`research`](https://github.com/Panta-Rhei-Research/research) | Public workspace for scripts, notebooks, import reports, experiments, and exploratory supporting material. |
+| [`community`](https://github.com/Panta-Rhei-Research/community) | Public engagement hub: onboarding, routing, discussion guidelines, review guides, and contribution policies. |
+| [`.github`](https://github.com/Panta-Rhei-Research/.github) | Organization profile and shared community-health defaults. |
 
-## The research program
+## How to engage
 
-The program develops **Category τ** — a categorical framework built from five generators, seven axioms, and one operator. From this kernel, it derives:
+- Ask a public question in GitHub Organization Discussions.
+- Report a concrete defect using Issues.
+- Propose a concrete improvement using Pull Requests.
+- Contact us by email for private, institutional, media, support, or sensitive matters.
 
-- **Mathematics** (Books I–III): foundations, holomorphy, the Millennium Problems
-- **Physics** (Books IV–V): quantum mechanics, particle physics, gravity, cosmology — zero free parameters
-- **Life** (Book VI): life as self-decoding distinctions, the genetic code, evolution
-- **Metaphysics** (Book VII): ontology, ethics, consciousness, the Logos sector
+## Verification note
 
-The master constant **ι_τ = 2/(π + e)** governs all quantitative predictions. The decisive near-term test: **CMB-S4** will measure the tensor-to-scalar ratio *r*. If *r* is inconsistent with ι_τ⁴, the framework's cosmological predictions fail.
+TauLib exposes formalized proof obligations where available. Formal compilation is not the same as empirical truth, bridge adequacy, or external scientific acceptance.
 
-## Verification
+For the current formalization snapshot, see the [Release Manifest](https://panta-rhei.site/verify/release-manifest/) on the website.
 
-- **TauLib** — the live Lean 4 formalization surface
-- **Open-access publications** — companion texts, errata, and public release artefacts
-- **Public verification routes** — website, documentation, and archived snapshots for independent inspection
+## Open research alignment
 
-## Contribute
+This GitHub organization supports the program's open-research commitments: transparency, scrutiny, critique, reproducibility, accountability, collaboration, and responsible reuse.
 
-- **Formalization:** [taulib](https://github.com/Panta-Rhei-Research/taulib)
-- **Publications:** [publications](https://github.com/Panta-Rhei-Research/publications)
-- **Research:** [research](https://github.com/Panta-Rhei-Research/research)
-- **Community:** [community](https://github.com/Panta-Rhei-Research/community)
+The website publishes the structured research object. GitHub provides the public substrate for questions, corrections, review routes, source artifacts, formalization, and contribution workflows.
 
 ---
 
-*Panta Rhei — Everything Flows.*
+Panta Rhei - Everything Flows.

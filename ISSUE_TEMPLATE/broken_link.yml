@@ -1,0 +1,24 @@
+name: Broken link or redirect
+description: Report a broken internal or external link.
+title: "[broken-link]: "
+labels: ["documentation", "broken-link"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+      description: Where did you find the broken link?
+    validations:
+      required: true
+  - type: input
+    id: broken
+    attributes:
+      label: Broken link
+      description: Which link is broken?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected target
+      description: Where should it point?

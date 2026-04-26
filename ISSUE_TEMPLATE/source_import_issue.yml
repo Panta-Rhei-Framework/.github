@@ -1,0 +1,21 @@
+name: Source/import issue
+description: Report a source-policy, Problem Ledger, Registry, or import mapping concern.
+title: "[source-import]: "
+labels: ["source-mapping", "needs-review"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source or ledger item
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What seems wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or source link

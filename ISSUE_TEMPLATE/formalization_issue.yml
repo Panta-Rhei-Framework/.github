@@ -1,0 +1,21 @@
+name: TauLib / formalization issue
+description: Report a Lean, TauLib, documentation, or formalization concern.
+title: "[formalization]: "
+labels: ["formalization", "taulib"]
+body:
+  - type: input
+    id: module
+    attributes:
+      label: Module / declaration / page
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: Issue
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps or expected formal statement
